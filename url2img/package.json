@@ -1,0 +1,13 @@
+{
+  "name": "url2img",
+  "version": "0.0.1",
+  "description": "Webpage Screenshot Tool",
+  "main": "url2img.js",
+  "scripts": {
+    "start": "node url2img.js"
+  },
+  "author": "Walter Chan",
+  "dependencies": {
+    "url2img": "~1.0.3"
+  }
+}
